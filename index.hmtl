@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+    
+    <head>
+    <script src="https://unpkg.com/focus-visible@5.0.2/dist/focus-visible.js" defer></script>
+   
+   <style> model-viewer {width: 800px; height: 600px; margin: 0 auto;} </style>
+
+</head>
+    <body>
+        <model-viewer src="Drywater_demo.glb" camera controls > </model-viewer>
+
+        <img src="download.jpg" alt="">
+
+        <img src=https://static.independent.co.uk/2020/11/05/23/Carl_Lentz_62515.jpg?quality=75&width=1200&auto=webp" alt="">
+
+        <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"> </script>
+    </body>
+
+
+</html>
