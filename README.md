@@ -1,2 +1,1 @@
-# Wedev
-:/
+permalink: /index.html
